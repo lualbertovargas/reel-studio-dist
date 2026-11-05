@@ -1,0 +1,14 @@
+{
+  "name": "clickmind",
+  "description": "Herramientas de ClickMind para crear contenido con IA.",
+  "owner": {
+    "name": "ClickMind"
+  },
+  "plugins": [
+    {
+      "name": "reel-studio",
+      "source": "./plugins/reel-studio",
+      "description": "Editor de reels con IA para negocios: subtítulos animados, gráficos, música y marca propia."
+    }
+  ]
+}

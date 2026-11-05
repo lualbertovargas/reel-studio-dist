@@ -1,0 +1,19 @@
+{
+  "name": "reel-studio-engine",
+  "version": "0.3.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "description": "Motor de render de Reel Studio (plantilla Remotion parametrizada por marca y guion)",
+  "dependencies": {
+    "@remotion/cli": "4.0.527",
+    "@remotion/google-fonts": "4.0.527",
+    "@remotion/install-whisper-cpp": "4.0.527",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.527"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "typescript": "5.9.3"
+  }
+}
