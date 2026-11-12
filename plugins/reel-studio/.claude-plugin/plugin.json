@@ -1,0 +1,9 @@
+{
+  "name": "reel-studio",
+  "version": "0.7.1",
+  "description": "Editor de reels con IA: convierte clips del celular en videos verticales profesionales con subtítulos animados, gráficos, música y la marca del negocio.",
+  "author": {
+    "name": "HM"
+  },
+  "icon": ".claude-plugin/icon.png"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "hm",
+  "description": "Herramientas de HM para crear contenido con IA.",
+  "owner": {
+    "name": "HM"
+  },
+  "plugins": [
+    {
+      "name": "reel-studio",
+      "source": "./plugins/reel-studio",
+      "description": "Editor de reels con IA para negocios: subtítulos animados, gráficos, música y marca propia."
+    }
+  ]
+}
